@@ -1,0 +1,4 @@
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="C:\Users\tom\.m2\repository\org\bindgen\bindgen\2.23\bindgen-2.23.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
